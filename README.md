@@ -1,4 +1,4 @@
-# Lab 3 - Classes and Fixtures #
+# Lab 4 - Classes and Fixtures #
 
 [Submission Pull Request](https://github.com/idkburkes/pythonic-garage-band/pull/1)
 
